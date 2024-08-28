@@ -1,16 +1,16 @@
-About This GPULightmass-patch-5-4-3 binary for Unreal Engine 5.4.3 source built with VS2022 17.6 preview 4 onward
+About This GPULightmass-patch-5-4-3/5.4.4 binary for Unreal Engine 5.4.3/5.4.4 source built with VS2022 17.6 preview 4 onward
 ====================================================================================
 
 The zip file is available by clicking the "Code" button above and select "Download Zip" will create latest Zip file.
 
 
-This branch has been updated to 5.4.3 (23/July/2024) at
+This branch has been updated to 5.4.3 (23/July/2024) at and tested on Unreal Engine 5.4.4 on 28th August 2024
 
 https://github.com/jimshalo10/UnrealEngine-5/blob/Luoshuangs-GPULightmass-5.4.3/README.md
 
 from the original repository at https://github.com/irobot/UnrealEngine/tree/GPULightmass-UE5.1.0-release
 
-This version is all the patches for BINARY version 5.4.3 Source built repository with the updates to 5.4.3
+This version is all the patches for BINARY version 5.4.3 and 5.4.4 Source built repository with the updates to 5.4.3 and 5.4.4
 
 
 When you load ANY version of GPULightmass patches your version will *no longer be classified as production* version. 
